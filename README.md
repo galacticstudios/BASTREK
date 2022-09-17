@@ -1,6 +1,8 @@
 # Star Trek: The Other Game
 
- This is a *different* BASIC Star Trek game from the 1970s!
+ Here's a [video demo of the game that is hosted here](https://youtu.be/1Q_4k41Y7eM).
+
+This is a *different* BASIC Star Trek game from the 1970s!
 
 You might be familiar with the better-known Star Trek game from that time, which printed out charts of the current quadrant and the galaxy. [Wikipedia has an article about it.](https://en.wikipedia.org/wiki/Star_Trek_(1971_video_game))
 
